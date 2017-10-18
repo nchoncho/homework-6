@@ -1,0 +1,4 @@
+<div id="map"></div>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Eblf_LSUde7iPZHkdGqdrd1SGaTEKx8&callback=initMap">
+</script>
